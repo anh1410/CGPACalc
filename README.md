@@ -5,6 +5,9 @@ calculates CGPA
 
 The CGPA Calculator is a simple Python-based tool that allows students to calculate their Cumulative Grade Point Average (CGPA) based on their course grades and credit hours. It helps students track their academic performance and keep a record of their progress over multiple semesters.
 
+##CHANGE
+this is the chnahge
+
 ## Features
 
 - **Input Grades and Credit Hours**: Enter the grades and credit hours for each course.
