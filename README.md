@@ -1,0 +1,2 @@
+# CGPACalc
+calculates CGPA
